@@ -77,5 +77,5 @@ public abstract  class Activitat {
                 " | Inscripció: " + dataIniciInscripcio + " - " + dataFiInscripcio;
     }
 }
-
+//QUALSEVOL COSA QUE FALTI O CALGUI CANVIAR? AVISEUME
 
